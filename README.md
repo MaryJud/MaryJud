@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MaryJud">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Mary" alt="Hello! I&#39;m Mary" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Mary" alt="Hello! I&#39;m Maria Rosaria" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=475&height=44&lines=Software%20Developer%20Full%20Stack" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 I am a Full Stack Software Developer with nearly 4 years of experience in designing and developing enterprise web applications, specializing in document management and process digitization.  
 Throughout my career, I have worked across the entire software development lifecycle: from engineering backend logic with Java 21 and Spring Boot, building REST APIs, managing SQL databases, and handling system integrations, to crafting complex, user-centric interfaces.  
